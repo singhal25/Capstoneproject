@@ -1,0 +1,860 @@
+.container1{
+    width: 100%; 
+    height: 100%;
+     position: relative;
+      background: #F6F9FF ;
+       margin-left: 500px;
+       
+}
+.container2{
+    width: 375px;
+ height: 116px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+
+}
+.container3{
+    width: 375px;
+ height: 116px;
+ left: 0px;
+ top: 0px;
+ background: currentColor;
+ position: absolute;
+}
+.container4{
+    width: 375px;
+ height: 116px;
+ left: 0px;
+ top: 116px;
+ position: absolute;
+ background: currentColor;
+}
+.container5{
+    width: 375px;
+ height: 44px;
+ left: 0px;
+ top: 0px;
+ position: absolute
+}
+.top{
+    width: 375px;
+ height: 44px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+}
+.top1{
+    width: 24.33px;
+ height: 11.33px;
+ left: 336px;
+ top: 17.33px;
+ position: absolute;
+}
+.top2{
+    width: 22px;
+ height: 11.33px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ opacity: 0.35;
+ border-radius: 2.67px;
+
+}
+.top3{
+    width: 1.33px;
+ height: 4px;
+ left: 23px;
+ top: 3.67px;
+ position: absolute;
+ opacity: 0.40;
+ background: white;
+}
+.top4{
+    width: 18px;
+ height: 7.33px;
+ left: 2px;
+ top: 2px;
+ position: absolute;
+ background: white;
+ border-radius: 1.33px;
+
+}
+.top2{
+    width: 22px;
+ height: 11.33px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ opacity: 0.35;
+ border-radius: 2.67px;
+
+}
+.top3{
+    width: 1.33px;
+ height: 4px;
+ left: 23px;
+ top: 3.67px;
+ position: absolute;
+ opacity: 0.40;
+ background: white
+}
+.top4{
+    width: 18px;
+ height: 7.33px;
+ left: 2px;
+ top: 2px;
+ position: absolute;
+ background: white;
+ border-radius: 1.33px
+}
+.top5{
+    width: 54px;
+ padding-top: 3px;
+ padding-bottom: 1px;
+ left: 21px;
+ top: 13px;
+ position: absolute;
+ justify-content: center;
+ align-items: center;
+ display: inline-flex
+}
+.top6{
+    width: 54px;
+ text-align: center;
+}
+.mobile{
+    width: 343px;
+ left: 16px;
+ top: 54px;
+ position: absolute;
+ text-align: center;
+ color: white;
+ font-size: 24px;
+ font-family: Montserrat;
+ font-weight: 700;
+ word-wrap: break-word;
+  
+}
+.back{
+    width: 24px;
+ height: 24px;
+ left: 16px;
+ top: 57px;
+ position: absolute;
+}
+.top7{
+    width: 375px;
+ height: 56px;
+ left: 0px;
+ top: 116px;
+ position: absolute;
+
+}
+.top8{
+    width: 375px;
+ height: 56px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: black;
+
+}
+.map{
+    width: 83px;
+ height: 18px;
+ left: 146px;
+ top: 17px;
+ position: absolute;
+}
+.map1{
+    width: 62px;
+ height: 17.73px;
+ left: 21px;
+ top: 0px;
+ position: absolute;
+ text-align: center;
+ color: white;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word;
+}
+.map2{
+    width: 16px;
+ height: 16px;
+ left: 0px;
+ top: 2px;
+ position: absolute;
+ flex-direction: column;
+ justify-content: flex-start;
+ align-items: flex-start;
+ display: inline-flex;
+}
+.category{
+    width: 86px;
+ height: 17.73px;
+ left: 263px;
+ top: 18px;
+ position: absolute;
+}
+.category1{
+    width: 65px;
+ height: 17.73px;
+ left: 21px;
+ top: 0px;
+ position: absolute;
+ text-align: center;
+ color: white;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word;
+}
+.category2{
+    width: 16px;
+ height: 16px;
+ left: 0px;
+ top: 1px;
+ position: absolute;
+ flex-direction: column;
+ justify-content: flex-start;
+ align-items: flex-start;
+ display: inline-flex;
+}
+.sort{
+    width: 73px;
+ height: 17.73px;
+ left: 34px;
+ top: 19px;
+ position: absolute;
+}
+.sort1{
+    width: 51px;
+ height: 17.73px;
+ left: 22px;
+ top: 0px;
+ position: absolute;
+ text-align: center;
+ color: white;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word;
+
+}
+.sort2{
+    width: 16px;
+ height: 16px;
+ left: 0px;
+ top: 1px;
+ position: absolute;
+ flex-direction: column;
+ justify-content: flex-start;
+ align-items: flex-start;
+ display: inline-flex;
+}
+.top9{
+    width: 112px;
+ height: 31px;
+ left: 14px;
+ top: 12px;
+ position: absolute;
+ border-radius: 23px;
+ border: 1px white solid;
+}
+.top10{
+    width: 112px;
+ height: 31px;
+ left: 132px;
+ top: 12px;
+ position: absolute;
+ border-radius: 23px;
+ border: 1px white solid;
+}
+.top11{
+    width: 112px;
+ height: 31px;
+ left: 250px;
+ top: 12px;
+ position: absolute;
+ border-radius: 23px;
+ border: 1px white solid
+}
+.main{
+    width: 160px;
+ height: 200px;
+ left: 23px;
+ top: 202px;
+ position: absolute;
+
+}
+.main1{
+    width: 159.65px;
+ height: 200px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: white;
+ border-radius: 10px;
+ border: 1px rgba(0, 0, 0, 0.10) ;
+}
+.main2{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+}
+.main3{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+.main4{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+.product1-name{
+    width: 141.80px;
+ height: 13.07px;
+ left: 11.90px;
+ top: 139.70px;
+ position: absolute;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word;
+}
+.product1-logo{
+    width: 55.53px;
+ height: 13.07px;
+ left: 37.68px;
+ top: 171.86px;
+ position: absolute;
+ opacity: 0.50;
+ color: #4F4F4F;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word"
+}
+.product1-price{
+    width: 33.72px;
+ height: 13.07px;
+ left: 119.99px;
+ top: 171.86px;
+ position: absolute;
+ text-align: center;
+ color: #33907C;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+}
+.product1-price1{
+    width: 33.72px;
+ height: 13.07px;
+ left: 92.22px;
+ top: 172.86px;
+ position: absolute;
+ text-align: center;
+ color: #4F4F4F;
+ font-size: 10px;
+ font-family: Montserrat;
+ font-weight: 400;
+ text-decoration: line-through;
+ word-wrap: break-word;
+
+}
+.product1{
+    width: 19.83px;
+ height: 20.10px;
+ left: 11.90px;
+ top: 168.84px;
+ position: absolute
+}
+.main5{
+    width: 160px;
+ height: 200px;
+ left: 23px;
+ top: 412px;
+ position: absolute;
+}
+.main6{
+    width: 159.65px;
+ height: 200px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: white;
+ border-radius: 10px;
+ border: 1px rgba(0, 0, 0, 0.10) solid;
+}
+.main7{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute
+
+}
+.main8{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.main-main{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.product2-name
+
+{
+
+
+    width: 141.80px;
+ height: 13.07px;
+ left: 11.90px;
+ top: 139.70px;
+ position: absolute;
+ color: #4A4A4A;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product2-trade{
+    width: 55.53px;
+ height: 13.07px;
+ left: 37.68px;
+ top: 171.86px;
+ position: absolute;
+ opacity: 0.50;
+ color: #4F4F4F;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word;
+}
+.price2{
+    width: 33.72px;
+ height: 13.07px;
+ left: 119.99px;
+ top: 171.86px;
+ position: absolute;
+ text-align: center;
+ color: #33907C;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word;
+}
+.expected-price{
+
+
+
+    width: 33.72px;
+ height: 13.07px;
+ left: 92.22px;
+ top: 172.86px;
+ position: absolute;
+ text-align: center;
+ color: #4F4F4F;
+ font-size: 10px;
+ font-family: Montserrat;
+ font-weight: 400;
+ text-decoration: line-through;
+ word-wrap: break-word
+}
+.product-2{
+    width: 19.83px;
+ height: 20.10px;
+ left: 11.90px;
+ top: 168.84px;
+ position: absolute
+}
+.main9{
+    width: 160px;
+ height: 200px;
+ left: 23px;
+ top: 622px;
+ position: absolute
+}
+.main10
+{
+
+
+    width: 159.65px;
+ height: 200px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: white;
+ border-radius: 10px;
+ border: 1px rgba(0, 0, 0, 0.10) solid
+}
+.main11{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute
+}
+.main12{
+
+
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.main13{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.product3-name{
+    width: 141.80px;
+ height: 13.07px;
+ left: 11.90px;
+ top: 139.70px;
+ position: absolute;
+ color: #4A4A4A;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product3-trade{
+    width: 55.53px;
+ height: 13.07px;
+ left: 37.68px;
+ top: 171.86px;
+ position: absolute;
+ opacity: 0.50;
+ color: #4F4F4F;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product3-expectedprice{
+    width: 33.72px;
+ height: 13.07px;
+ left: 92.22px;
+ top: 172.86px;
+ position: absolute;
+ text-align: center;
+ color: #4F4F4F;
+ font-size: 10px;
+ font-family: Montserrat;
+ font-weight: 400;
+ text-decoration: line-through;
+ word-wrap: break-word
+}
+.product3{
+    width: 19.83px;
+ height: 20.10px;
+ left: 11.90px;
+ top: 168.84px;
+ position: absolute
+}
+.main14{
+    width: 160px;
+ height: 200px;
+ left: 193px;
+ top: 202px;
+ position: absolute
+}
+.main15{
+    width: 159.65px;
+ height: 200px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: white;
+ border-radius: 10px;
+ border: 1px rgba(0, 0, 0, 0.10) solid
+}
+.main16{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute
+}
+.main17{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.main18{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.product4-name{
+    width: 141.80px;
+ height: 13.07px;
+ left: 11.90px;
+ top: 139.70px;
+ position: absolute;
+ color: #4A4A4A;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product3-trade{
+    width: 55.53px;
+ height: 13.07px;
+ left: 37.68px;
+ top: 171.86px;
+ position: absolute;
+ opacity: 0.50;
+ color: #4F4F4F;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product4-expectedprice{
+    width: 33.72px;
+ height: 13.07px;
+ left: 119.99px;
+ top: 171.86px;
+ position: absolute;
+ text-align: center;
+ color: #33907C;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+}
+.product4{
+    width: 19.83px;
+ height: 20.10px;
+ left: 11.90px;
+ top: 168.84px;
+ position: absolute
+}
+.main19{
+    width: 160px;
+ height: 200px;
+ left: 193px;
+ top: 412px;
+ position: absolute
+}
+.main20{
+    width: 159.65px;
+ height: 200px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: white;
+ border-radius: 10px;
+ border: 1px rgba(0, 0, 0, 0.10) solid
+}
+.main21{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute
+}
+.main22{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.main23{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.product5-name{
+    width: 141.80px;
+ height: 13.07px;
+ left: 11.90px;
+ top: 139.70px;
+ position: absolute;
+ color: #4A4A4A;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product5-trade{
+    width: 55.53px;
+ height: 13.07px;
+ left: 37.68px;
+ top: 171.86px;
+ position: absolute;
+ opacity: 0.50;
+ color: #4F4F4F;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product5-price{
+    width: 33.72px;
+ height: 13.07px;
+ left: 119.99px;
+ top: 171.86px;
+ position: absolute;
+ text-align: center;
+ color: #33907C;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+}
+.product5{
+    width: 19.83px;
+ height: 20.10px;
+ left: 11.90px;
+ top: 168.84px;
+ position: absolute
+}
+.main24{
+    width: 160px;
+ height: 200px;
+ left: 193px;
+ top: 622px;
+ position: absolute
+}
+.main25{
+    width: 159.65px;
+ height: 200px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: white;
+ border-radius: 10px;
+ border: 1px rgba(0, 0, 0, 0.10) solid
+}
+.main26{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute
+}
+.main27{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.main28{
+    width: 160px;
+ height: 127.41px;
+ left: 0px;
+ top: 0px;
+ position: absolute;
+ background: #EEEEEE;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px
+}
+.product6-name{
+    width: 141.80px;
+ height: 13.07px;
+ left: 11.90px;
+ top: 139.70px;
+ position: absolute;
+ color: #4A4A4A;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product6-trade{
+    width: 55.53px;
+ height: 13.07px;
+ left: 37.68px;
+ top: 171.86px;
+ position: absolute;
+ opacity: 0.50;
+ color: #4F4F4F;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 500;
+ word-wrap: break-word
+}
+.product6-price{
+    width: 33.72px;
+ height: 13.07px;
+ left: 119.99px;
+ top: 171.86px;
+ position: absolute;
+ text-align: center;
+ color: #33907C;
+ font-size: 14px;
+ font-family: Montserrat;
+ font-weight: 600;
+ word-wrap: break-word
+}
+.product6{
+    width: 19.83px;
+ height: 20.10px;
+ left: 11.90px;
+ top: 168.84px;
+ position: absolute
+}
